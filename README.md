@@ -1,7 +1,6 @@
 <h1 align="center">
 Hello World 👋
 </h1>
-<br/>
 <p align="center">
 <a href="https://github.com/Vractos">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vractos&show_icons=true&include_all_commits=true&count_private=true" />
@@ -24,4 +23,5 @@ Social
  <a href="https://twitter.com/vini_ciussr">
   <img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+ </p>
 </h2>
