@@ -1,26 +1,18 @@
-<h1 align="center">
-Hello World 👋
-</h1>
-<p align="center">
-<a href="https://github.com/Vractos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vractos&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry" />
-</a>
-<a href="https://github.com/Vractos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vractos&layout=compact&langs_count=7&theme=blueberry" />
-</a>
-</p>
-<h2 align="center">
-Social
-</br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/paulo-vinicius-756b94186">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-    <a href="https://www.instagram.com/vini.ciusr">
-  <img align="center" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
- <a href="https://twitter.com/vini_ciussr">
-  <img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
- </p>
-</h2>
+<!-- Actual text -->
+### Hi there, I'm Vinicius. 👋
+
+#### You can find me on: [![Twitter][1.1]][1]    [![LinkedIn][1.2]][2]
+
+<!-- Icons -->
+
+[1.1]: https://img.icons8.com/color/30/000000/twitter.png (Twitter icon)
+[1.2]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/vini_ciussr
+[2]: https://www.linkedin.com/in/pauloviniciusr/
+
+#### Recent Statistics ⚡
+| ![](https://github-readme-stats.vercel.app/api?username=Vractos&include_all_commits=true&count_private=true&hide=stars,issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vractos&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,css&title_color=6bbbca)
+| - | - |
