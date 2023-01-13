@@ -12,7 +12,3 @@
 
 [1]: https://twitter.com/vini_ciussr
 [2]: https://www.linkedin.com/in/pauloviniciusr/
-
-#### Recent Statistics ⚡
-| ![](https://github-readme-stats.vercel.app/api?username=Vractos&include_all_commits=true&count_private=true&hide=stars,issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vractos&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,css&title_color=6bbbca)
-| - | - |
